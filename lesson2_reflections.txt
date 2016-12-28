@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	|
+	| When you initialize a repository, Git, like, installs the required things
+	| (file )to start tracking your file.
+	| Then you need to specify the files to be tracked to Git, so when you 
+	| commit, a snapshot of the files will betaken.
+	|
+
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
