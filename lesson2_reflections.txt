@@ -9,3 +9,17 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the 
 repository? What value do you think it offers?
+
+	|
+	| Staging area allows you minimize the number of files you are tracking 
+	| (Git is tracking), when there are files on your working directory that 
+	| do not need to be tracked. Staging area is like, for me at least, if it 
+	| is not actually like that, a list that contains the names of the files 
+	| Git is going to work with.
+	| It can't be compared to the working directory or the repository. Even if 
+	| they can be confused one with another. I personally used to confuse 
+	| between them. But no more :).
+	| Working directory is kind of a local repository. While the repository 
+	| is the "final" "version" of the project, that you ll share with others.
+	|
+
