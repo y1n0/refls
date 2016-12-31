@@ -1,8 +1,31 @@
-When would you want to use a remote repository rather than keeping all your work local?
-  I'd like to do that all the time. Before, I used to sync my works via some app that are 
-  not totally dedicated for that. I used to use Dropbox to sync files (coding files and 
-  projects) between devices and as a buckup. That time I were not knowing about versions 
-  control yet.
-  Now with Git, it will become easier and more efficient. Let alone collaborating with 
-  others.
+When would you want to use a remote repository rather than keeping all your 
+work local?
+
+  | I'd like to do that all the time. Before, I used to sync my works via some 
+  | app that are not totally dedicated for that. I used to use Dropbox to 
+  | sync files (coding files and projects) between devices and as a backup. 
+  | That time I were not knowing about versions control yet.
+  | Now with Git, it will become easier and more efficient. Let alone 
+  | collaborating with others.
+
+Why might you want to always pull changes manually rather than having Git 
+automatically stay up-to-date with your remote repository?
   
+  |
+
+Describe the differences between forks, clones, and branches. When would you 
+use one instead of another?
+
+  | Clone a repository is a sort of downloading it to your computer and making 
+  | of it a local repository. Notice that when cloning, you get also the 
+  | history of the projects which lets you access the previous versions.
+  | You clone a repo when you are a contributor and want to do your part of 
+  | code. Let's say you are welcomed and were awaited.
+  | Forks are, to say, the same thing. Only you don't need to clone to your 
+  | computer, you clone to your account on GitHub. And then you can work on 
+  | them in the website or clone (clone the fork) to you computer. Thus you 
+  | will not affect the original version nor bother their owner by your edits.
+  | Fork when you not want to create you own edition of that thing, apart the 
+  | origin.
+  | Coming to branches, they allow you edit a part of the project (may be the 
+  | whole of it) without modifying the main version.
