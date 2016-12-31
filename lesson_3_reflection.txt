@@ -1,0 +1,8 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  I'd like to do that all the time. Before, I used to sync my works via some app that are 
+  not totally dedicated for that. I used to use Dropbox to sync files (coding files and 
+  projects) between devices and as a buckup. That time I were not knowing about versions 
+  control yet.
+  Now with Git, it will become easier and more efficient. Let alone collaborating with 
+  others.
+  
