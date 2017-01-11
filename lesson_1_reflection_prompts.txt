@@ -1,30 +1,21 @@
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
-    actually it really helps.
-    Eventhough I still dont know how Im gonna save so many versions from 1 file
-    while editing it,
-    I know it s very helpful.
-    You were working on a project, you test it once, it works correctly.
-    But you made a quite little modification and it's just like that,
-    BUF! and it does not work. Where is the error or the typo from?
-    who knows!
-    If you dont have an old version of the file (and I dont know you could save each single version) you dead fucked up.
+    As its name indicates, diff shows the difference between two files. Knowing
+    that one of them have been working correctly, and there is a difference 
+    between the two; the bug can not be caused by something else than what 
+    have changed.
+
 
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
 
-    I still dont know to access the history of a file. but it sounds so.. great? neat? professional?
-    Now I know. You did not say that we have to reflect on each question once we 
+    
 
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
 docs does?
 
-    I've just saw the video talking about some of the systems that
-    save old versions automatically like Dropbox or Google doc.
-    Now things become clearer than before. 
-    I still dont get the whole idea but now I know that we have not talked about that yet.
 
       |	pros
     ==+===============================================
@@ -56,23 +47,21 @@ files in one commit, while others, like Google Docs, treat each file separately?
     Google doc is not intended to edit, for example, codes and programs
     which are usually in multiple files.
     But in the other hand, Git is dedicated for projects that have so many files that are related between them.
-    so if you edit one file, you ll have to edit 
+    so if you edit one file, you ll have to edit some others.
 
 How can you use the commands git log and git diff to view the history of files?
 
     the basic usage of the two commands is as the following:
     	-for git log, we use it to print the history of the commits (commit id, the comment.. etc). you can add the option --stat to show how many addition/deletion has been made.
-    	-git diff requires the commits to be compared ids, and it shows the difference between them, in a great way 
+    	-git diff requires the commits to-be-compared ids, and it shows the difference between them, in a great way.
 
 How might using version control make you more confident to make changes that
 could break something?
 
-    To answer that, surely I have to apply it on a project and 
-
-    I do not want to answer. I dont know
+    using version control give you a large control over you files. So you can change them as you want
+    knowing that you restore any state of a file in every point of time. You want have to fear to mess the work up.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    I did not configure my workspace.
-    I am not in mood to do so.
-    I want to use Git for what people use it for.
+    I want to version my projects. so I can watch every single change made to them, and so I can "navigate" 
+    through in them is different points of time.
